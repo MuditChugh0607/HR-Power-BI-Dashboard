@@ -4,6 +4,11 @@
 
 The **HR Dashboard Project** is designed to create a comprehensive and interactive dashboard that provides valuable insights into an organization's workforce. This dashboard will assist HR managers and other stakeholders in making data-driven decisions related to employee management, recruitment, diversity, and compensation. By visualizing key metrics, the dashboard enables users to easily spot trends, patterns, and areas requiring improvement.
 
+## 📊 __Project Images__  
+
+![image](https://github.com/user-attachments/assets/3676c1da-dec8-4d91-946c-8fcb584f64b3)
+![image](https://github.com/user-attachments/assets/9762632a-2afd-4d73-b6a4-9f08c5037121)
+
 # 🎯 __Project Objectives__  
 
 This dashboard helps HR teams track key workforce metrics for better decision-making.  
@@ -25,7 +30,8 @@ This dashboard helps HR teams track key workforce metrics for better decision-ma
    - Track employee distribution by location and distance from work.  
 
 ### ✅ __5. Ensure Fair Pay & Benefits__   
-   - Identify pay gaps based on job level and demographics.  
+   - Identify pay gaps based on job level and demographics.
+
 
 ## 🛠 Tools and Technologies Used:
 
